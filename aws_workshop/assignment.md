@@ -51,8 +51,8 @@ Student Resources and Notes to Get Started
 
 
 ### Summary, Step-by-Step Solution:
-1.	Create an EC2 Server with Instance Type: t2.nano and Amazon Linux
-2.	SSH into the instance
+1.	Create an EC2 Server with Instance Type: t2.nano and Amazon Linux	&#10004;
+2.	SSH into the instance	&#10004;
 3.	Python3 should already be installed. Install pip using sudo dnf install python3-pip
 4.	Copy the bot.py into the instance
 5.	pip3 install python-dotenv discord.py ec2-metadata psutil
