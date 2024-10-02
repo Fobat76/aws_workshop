@@ -53,13 +53,13 @@ Student Resources and Notes to Get Started
 ### Summary, Step-by-Step Solution:
 1.	Create an EC2 Server with Instance Type: t2.nano and Amazon Linux	&#10004;
 2.	SSH into the instance	&#10004;
-3.	Python3 should already be installed. Install pip using sudo dnf install python3-pip
-4.	Copy the bot.py into the instance
-5.	pip3 install python-dotenv discord.py ec2-metadata psutil
-6.	Create a Discord server and bot. Add the bot to the server. Make sure Privileged Gateway Intents > Message Content Intent is turned on.
-7.	Complete .env file with the Discord bot token.
-8.	Run python3 bot.py
-9.	Send ‘Tell me about my server!’ in any channel on the Discord server where the bot was added.
+3.	Python3 should already be installed. Install pip using sudo dnf install python3-pip &#10004;
+4.	Copy the bot.py into the instance &#10004;
+5.	pip3 install python-dotenv discord.py ec2-metadata psutil &#10004;
+6.	Create a Discord server and bot. Add the bot to the server. Make sure Privileged Gateway Intents > Message Content Intent is turned on. &#10004;
+7.	Complete .env file with the Discord bot token. &#10004;
+8.	Run python3 bot.py &#10004;
+9.	Send ‘Tell me about my server!’ in any channel on the Discord server where the bot was added. &#10004;
 
 
 
